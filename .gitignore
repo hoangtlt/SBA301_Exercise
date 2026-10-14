@@ -1,0 +1,20 @@
+# Course materials / docs folder
+/docs/
+
+# Build artifacts
+target/
+**/target/
+node_modules/
+**/node_modules/
+
+# IDE and editor files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS generated files
+.DS_Store
+Thumbs.db
